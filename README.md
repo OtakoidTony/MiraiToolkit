@@ -1,6 +1,9 @@
 # MiraiToolkit
 A collection of tools for Project Mirai romhacking.
 
+## Dependencies
+- Python 3
+
 ## Included tools:
 - [polaris-'s CTPKTool](https://github.com/polaris-/ctpktool) for extracting and modifying CTR Texture files
 - [Nutzer's HamiMuCompose tools](https://github.com/Nutzer/HamiMuComposeIII) (both original and new version) for editing the game's song charts **(Windows only)**
@@ -58,3 +61,6 @@ To use, run the program and open up your .wav file. Make sure BCSTM (**not** BRS
 
 # Every File Explorer
 This was included just in case you want to look around or test stuff. I don't know what real use it has besides previewing some files, but it's nice to have. Also, it can do bcstm to wav conversion.
+
+# WINE
+WINE allows Mac and Linux users to run Windows applications on their machines. However, not all applications work, and I have no Mac to test them with. I included a link to the WINE for MacOS install page, which you will have to install manually.
